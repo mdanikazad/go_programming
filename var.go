@@ -10,6 +10,7 @@ func main() {
 	age := 32
 	gpa := 5
 
+	// printing
 	fmt.Println(fullName, "is a student")
 	fmt.Println(fullName, "is ", age, "years old")
 	fmt.Println(fullName, "has got ", gpa, "/5 in SSC")
