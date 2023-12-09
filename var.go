@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	// var initialization using short assignment statement.
+	// var initialization using type inference
 	fullName := "Onik Azad"
 	country := "Bangladesh"
 	age := 32
